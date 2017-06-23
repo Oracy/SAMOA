@@ -1,3 +1,4 @@
+```java
 bin/samoa
 Deploying to LOCAL
 Command line string =  PrequentialEvaluation -f 10000 -s (ArffFileStream -f rtg_1m.arff)
@@ -158,3 +159,4 @@ evaluation instances,classified instances,classifications correct (percent),Kapp
 100000.0,100000.0,85.726,70.4145242889408,70.5957481872116
 
 2017-06-23 19:52:29,117 [main] INFO  org.apache.samoa.evaluation.EvaluatorProcessor (EvaluatorProcessor.java:191) - total evaluation time: 5 seconds for 100000 instances
+```
